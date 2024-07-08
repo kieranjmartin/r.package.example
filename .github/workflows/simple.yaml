@@ -132,3 +132,7 @@ jobs:
     uses: user-workshop-cicd/r.pkg.template/.github/workflows/sample-reusable-workflow.yaml@main
     with:
       name: "Mighty OCTOCAT"
+
+  call-spelling:
+    name: Spelling ♻️
+    uses: user-workshop-cicd/r.pkg.template/.github/workflows/spelling.yaml@main
