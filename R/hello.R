@@ -2,7 +2,7 @@
 #'
 #' This function prints "Hello, World!" to the console.
 #'
-#' @return nothing
+#' @return invisibly returns the string "Hello, World"
 #'
 #' @export
 #'
